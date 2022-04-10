@@ -1,0 +1,1 @@
+masscan -iL ipp.txt --open --rate 60000 -p3389 | awk '{print $4}' > ipList.txt
